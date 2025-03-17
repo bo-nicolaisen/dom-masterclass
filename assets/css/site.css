@@ -1,0 +1,30 @@
+
+
+
+
+.container{
+    padding: 0px;
+    margin: 0px;
+  
+}
+
+.container li{
+   background-color: rgb(43, 42, 42);
+    padding: 10px;
+    margin: 0px;
+    color: white;
+    list-style: none;
+    display: block;
+}
+
+.container li:hover{
+    background-color: rgb(181, 176, 176);
+   
+     color: rgb(4, 4, 4);
+ }
+
+
+
+.hidden{
+    display: none;
+}
